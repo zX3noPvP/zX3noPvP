@@ -28,21 +28,21 @@
 
   ### 📊 GitHub Statistics
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zX3noPvP&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&hide_border=true&rank_icon=github" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zX3noPvP&layout=compact&theme=dark&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&hide_border=true" />
 
   ---
 
   ### 🔥 Contribution Streak
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=zX3noPvP&theme=dark&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&hide_border=true" />
 
   ---
 
   ### 🐍 Contribution Activity
 
-  ![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/zX3noPvP/zX3noPvP/output/github-contribution-grid-snake-dark.svg)
 
   ---
 
