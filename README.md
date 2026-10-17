@@ -30,8 +30,6 @@
 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zX3noPvP&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&hide_border=true&rank_icon=github" />
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zX3noPvP&layout=compact&theme=dark&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&hide_border=true&langs_count=6" />
-
   ---
 
   ### 🔥 Contribution Streak
@@ -39,10 +37,6 @@
   <img src="https://streak-stats.demolab.com?user=zX3noPvP&theme=dark&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&hide_border=true" />
 
   ---
-
-  ### 🐍 Contribution Activity
-
-  ![Snake animation](https://raw.githubusercontent.com/zX3noPvP/zX3noPvP/output/github-contribution-grid-snake-dark.svg)
 
   ---
 
